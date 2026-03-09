@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_ble
+  - board: xiao_ble//zmk
     shield: charybdis_central_dongle dongle_display
     artifact-name: charybdis_central_dongle_display
   - board: nice_nano_v2
